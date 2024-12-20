@@ -25,8 +25,6 @@ public class GoogleSearchSteps {
 		
 	}
 	
-	//Woops
-
 	@And("user is on google webpage")
 	public void user_is_on_google_webpage() {
 		System.out.println("user is on google webpage");
